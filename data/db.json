@@ -4,11 +4,15 @@
       "id": 1,
       "name": "ТВ и аудио",
       "description": "Телевизоры и аксессуары, аудиотехника",
+      "text": "Телевизоры и аксессуары, аудиотехника",
+      "image": "https://treolink.ru/image/catalog/categories-splash/audio-and-video.jpg",
       "children": [
         {
           "id": 2,
           "name": "Телевизоры",
           "description": "Smart TV, Android TV, 4K UHD",
+          "text": "Smart TV, Android TV, 4K UHD",
+          "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/c543659fa609314030cf2d983576fe60/8a84850e9a02b82942ad22128554fd87773146b32683f1561ec396718ac1b5bb.jpg",
           "children": [
             {
               "id": 3,
@@ -30,6 +34,8 @@
           "id": 5,
           "name": "Аудиотехника",
           "description": "Колонки, аудиосистемы, домашняя акустика",
+          "text": "Колонки, аудиосистемы, домашняя акустика",
+          "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/3e780f7d5402297d68022ac4d1d2af9a/0c7666301da0d9f99647fa37b197148b52220db926e331738708444b3f213018.jpg",
           "children": [
             {
               "id": 6,
@@ -53,11 +59,15 @@
       "id": 8,
       "name": "Смартфоны и фототехника",
       "description": "Смартфоны и гаджеты, планшеты, электронные книги, фототехника",
+      "text": "Смартфоны и гаджеты, планшеты, электронные книги, фототехника",
+      "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/31b28373068528817401be1fa0f72ff2/57c3fa75db8745654a371cbec253d141e7b1ac632f61e9dce6b5bd421941132e.jpg",
       "children": [
         {
           "id": 9,
           "name": "Смартфоны",
           "description": "Смартфоны Apple, Samsung. Аксессуары",
+          "text": "Смартфоны Apple, Samsung. Аксессуары",
+          "image": "https://c.dns-shop.ru/thumb/st1/fit/0/0/f8bfb16ea17b7a4fb3b6ce2005b22ed4/a5e89b1ecc3b009cc63ac5eb679b75b970aca1e0fc9554f012851569c92b2da7.jpg",
           "children": [
             {
               "id": 10,
@@ -79,6 +89,8 @@
           "id": 12,
           "name": "Фототехника",
           "description": "Зеркальные фотоаппараты, аксессуары",
+          "text": "Зеркальные фотоаппараты, аксессуары",
+          "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/34d4535f1ce740f2cdf9ad610576e8e8/74cddf19c5b1d48939e7c2261f5070fb8bc5661c27a451d26f8aeef3a5c0b073.jpg",
           "children": [
             {
               "id": 13,
@@ -102,11 +114,15 @@
       "id": 15,
       "name": "ПК и ноутбуки",
       "description": "Ноутбуки и аксессуары, компьютеры и ПО, периферия и аксессуары",
+      "text": "Ноутбуки и аксессуары, компьютеры и ПО, периферия и аксессуары",
+      "image": "https://img.uslugio.com/img2/220422/medium/kEBM0.jpg",
       "children": [
         {
           "id": 16,
           "name": "ПК",
           "description": "Персональные компьютеры и периферия",
+          "text": "Персональные компьютеры и периферия",
+          "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/9409d1572800ed85c2936db1a27a4ce7/40a36afea37242b3e2faa935725e81ee56b364f6dc40aea2e41807e2f614b67a.jpg",
           "children": [
             {
               "id": 17,
@@ -128,6 +144,8 @@
           "id": 19,
           "name": "Ноутбуки",
           "description": "Ноутбуки и аксессуары",
+          "text": "Ноутбуки и аксессуары",
+          "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/5ae4c0ddf39b7998778e5f70f19821a6/64cad8497f91c7b926d47580ba6e67c39534e707153591a1b161302c07634135.jpg",
           "children": [
             {
               "id": 20,

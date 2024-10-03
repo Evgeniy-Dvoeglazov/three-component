@@ -1,5 +1,5 @@
 .treeItem {
-  padding: 10px 0 0 28px;
+  padding: 10px 0 0 30px;
 
   &__button {
     color: #fff;
@@ -42,9 +42,16 @@
     }
   }
 
+  &__arrowButton {
+    padding: 0;
+    background: transparent;
+    border: none;
+    margin-right: 5px;
+  }
+
   &__arrow {
     width: 15px;
-    margin: 0 10px 0 0;
+    cursor: pointer;
 
     &_rotete {
       rotate: 180deg;

@@ -30,9 +30,7 @@ export const TreeItem = ({
     treeItem__arrow_rotete: isOpen,
   });
 
-  const handleClick = () => {
-    children ? setIsOpen(!isOpen) : setSelectedProduct(item);
-  };
+  const handleClick = () => {};
 
   useEffect(() => {
     if (isVisible && children && open) {
@@ -44,12 +42,19 @@ export const TreeItem = ({
     <>
       {isVisible !== false && (
         <div className="treeItem">
+          {children && (
+            <button
+              className="treeItem__arrowButton"
+              onClick={() => children && setIsOpen(!isOpen)}
+            >
+              <img className={arrowClass} src={arrow} />
+            </button>
+          )}
           <button
             className={buttonClass}
             data-tooltip={description}
-            onClick={handleClick}
+            onClick={() => setSelectedProduct(item)}
           >
-            {children && <img className={arrowClass} src={arrow} />}
             {name}
           </button>
           {isOpen &&
