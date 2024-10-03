@@ -30,8 +30,6 @@ export const TreeItem = ({
     treeItem__arrow_rotete: isOpen,
   });
 
-  const handleClick = () => {};
-
   useEffect(() => {
     if (isVisible && children && open) {
       setIsOpen(open);
