@@ -1,0 +1,36 @@
+$primary-color: #343f7b;
+$white-color: #fff;
+
+.sidebar {
+  background-color: $primary-color;
+  padding: 50px 25px;
+  box-sizing: border-box;
+  width: 400px;
+
+  &__searchField {
+    display: flex;
+    border: 1px solid $white-color;
+    border-radius: 8px;
+    padding: 10px 10px;
+  }
+
+  &__searchIcon {
+    width: 18px;
+    margin-right: 6px;
+  }
+
+  &__input {
+    box-sizing: border-box;
+    width: 300px;
+    background-color: $primary-color;
+    border: none;
+    border-radius: 8px;
+    color: $white-color;
+    outline: none;
+
+    &::placeholder {
+      color: $white-color;
+      opacity: 0.5;
+    }
+  }
+}
